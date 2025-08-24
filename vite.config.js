@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/furniture-placement/', // ⬅️ EXACTLY your GitHub repo name, with slashes
+  base: '/Furniture-Placement-AR/',   // 👈 EXACTLY your repo name
   plugins: [react()],
 })
